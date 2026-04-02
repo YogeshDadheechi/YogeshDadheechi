@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://github.com/YogeshDadheechi/YogeshDadheechi/blob/main/assets/profile.jpg?raw=true" 
-       alt="Yogesh Dadhich" 
-       width="180" />
-</p>
-
 <h1 align="center">Hey 👋, I'm Yogesh Dadhich</h1>
 
 # 💫 About Me:
