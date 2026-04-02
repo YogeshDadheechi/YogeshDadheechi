@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://github.com/YogeshDadheechi/YogeshDadheechi/blob/main/assets/profile.jpg?raw=true" 
+       alt="Yogesh Dadhich" 
+       width="180" />
+</p>
+
+<h1 align="center">Hey 👋, I'm Yogesh Dadhich</h1>
+
 # 💫 About Me:
 🔭 I'm currently working on **Fintech Mobile Application at Vast Web India Pvt. Ltd.**<br>
 🌱 I'm currently learning **Advanced Flutter (Clean Architecture, Riverpod, Bloc) and React**<br>
